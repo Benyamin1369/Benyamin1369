@@ -4,7 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...echo "# Beni" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Benyamin1369/Beni.git
+ git push
+
 
 <!---
 Benyamin1369/Benyamin1369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
